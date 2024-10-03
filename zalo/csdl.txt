@@ -1,0 +1,52 @@
+create database test
+go
+use test
+go
+
+/*drop database test*/
+
+CREATE TABLE users (
+    id_users INT PRIMARY KEY,
+    username VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    account_type VARCHAR(50) NOT NULL,
+);
+go
+
+CREATE TABLE customer (
+    id_customer INT PRIMARY KEY,
+    id_users INT,
+    full_name VARCHAR(255) NOT NULL,
+    phone_number VARCHAR(15) UNIQUE NOT NULL,
+    address VARCHAR(255),
+    FOREIGN KEY (id_users) REFERENCES users(id_users)
+);
+
+go
+CREATE TABLE posts (
+    id_post INT PRIMARY KEY,
+    id_customer INT,
+    post_name VARCHAR(255) NOT NULL,
+    min_salary DECIMAL(10,2),
+    max_salary DECIMAL(10,2),
+    post_date DATETIME,
+    close_date DATETIME,
+    status VARCHAR(50),
+    UNIQUE (id_post),
+    FOREIGN KEY (id_customer) REFERENCES customer(id_customer),
+    CHECK (max_salary > min_salary),
+    CHECK (close_date > post_date)
+);
+
+go
+CREATE TABLE applications (
+    id_application INT PRIMARY KEY,
+    id_post INT,
+    id_customer INT,
+    cv_path VARCHAR(255),
+    apply_date DATETIME,
+    status VARCHAR(50),
+    UNIQUE (id_application),
+    FOREIGN KEY (id_post) REFERENCES posts(id_post),
+    FOREIGN KEY (id_customer) REFERENCES customer(id_customer)
+);

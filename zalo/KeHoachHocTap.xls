@@ -1,0 +1,564 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>KE HOACH HOC TAP CUA SINH VIEN</title>
+</head>
+<table  align="center" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align=center colspan="6"><font size="4"><b>TRƯỜNG ĐẠI HỌC CẦN THƠ</b></font> </td>
+  </tr>
+  <tr>
+    <td colspan="6">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align=center colspan="6"><font size="4"><b>Kế Hoạch Học Tập Của Sinh Viên</b></font> </td>
+  </tr>
+  <tr>
+    <td colspan="6">&nbsp;</td>
+  </tr>
+  <tr height="20">
+    <td align="left" colspan="6">Họ và tên&nbsp;&nbsp;&nbsp;<b>Huỳnh Phước Hưng</b>&nbsp;&nbsp;&nbsp;- Mã số&nbsp;&nbsp;&nbsp;<b>B2205941</b></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="6">Ngày sinh&nbsp;&nbsp;&nbsp;<b>310704</b></td>
+  </tr>
+  <tr>
+    <td align="left" colspan="6">Lớp&nbsp;&nbsp;&nbsp;<b>HG22V7A1</b>-Ngành&nbsp;&nbsp;&nbsp;<b>Công nghệ thông tin</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="6">&nbsp;</td>
+  </tr>
+  
+   <tr >
+    <td align="center" colspan="6"><b>Danh sách học phần trong khung kế hoạch học tập</b> </td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center">
+	<table align="center" border='1' width="100%" cellpadding="0" cellspacing="0">
+      <tr >
+        <td align="center" width="4%" ><b>STT</b></td>
+        <td width="8%" align="center" ><b>Mã HP </b> </td>
+        <td width="28%" align="center" ><strong>Tên học phần </strong> </td>
+        <td width="6%" align="center" ><strong>Số TC </strong></td>
+        <td width="12%" align="center" ><strong>Năm học </strong></td>
+        <td width="4%" align="center" ><strong>HK</strong></td>
+        		        <!--<td width="8%" align="center" ><strong>Đã duyệt</strong> </td>-->
+      </tr>
+            <tr >
+        <td align="center" >1</td>
+        <td  align="center" >TN010</td>
+        <td  align="left">Xác suất thống kê </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >2</td>
+        <td  align="center" >CT200</td>
+        <td  align="left">Nền tảng công nghệ thông tin </td>
+        <td  align="center" >4 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >3</td>
+        <td  align="center" >TN001</td>
+        <td  align="left">Vi - Tích phân A1 </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >4</td>
+        <td  align="center" >CT100</td>
+        <td  align="left">Kỹ năng học đại học </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >5</td>
+        <td  align="center" >KL001E</td>
+        <td  align="left">Pháp luật đại cương </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >6</td>
+        <td  align="center" >CT101</td>
+        <td  align="left">Lập trình căn bản A </td>
+        <td  align="center" >4 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >7</td>
+        <td  align="center" >TN002</td>
+        <td  align="left">Vi - Tích phân A2 </td>
+        <td  align="center" >4 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >8</td>
+        <td  align="center" >TN012</td>
+        <td  align="left">Đại số tuyến tính và hình học </td>
+        <td  align="center" >4 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >9</td>
+        <td  align="center" >TC003</td>
+        <td  align="left">Taekwondo 1 (*) </td>
+        <td  align="center" >1 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >10</td>
+        <td  align="center" >ML014</td>
+        <td  align="left">Triết học Mác - Lênin </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >11</td>
+        <td  align="center" >QP010E</td>
+        <td  align="left">Giáo dục quốc phòng và An ninh 1 (*) </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >hè</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >12</td>
+        <td  align="center" >QP012</td>
+        <td  align="left">Giáo dục quốc phòng và An ninh 3 (*) </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >hè</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >13</td>
+        <td  align="center" >QP011E</td>
+        <td  align="left">Giáo dục quốc phòng và An ninh 2 (*) </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >hè</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >14</td>
+        <td  align="center" >QP013</td>
+        <td  align="left">Giáo dục quốc phòng và An ninh 4 (*) </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2022-2023&nbsp;</td>
+        <td align="center" >hè</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >15</td>
+        <td  align="center" >CT177</td>
+        <td  align="left">Cấu trúc dữ liệu </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >16</td>
+        <td  align="center" >CT173</td>
+        <td  align="left">Kiến trúc máy tính </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >17</td>
+        <td  align="center" >ML016</td>
+        <td  align="left">Kinh tế chính trị Mác - Lênin </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >18</td>
+        <td  align="center" >CT188</td>
+        <td  align="left">Nhập môn lập trình Web </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >19</td>
+        <td  align="center" >XH023</td>
+        <td  align="left">Anh văn căn bản 1 (*) </td>
+        <td  align="center" >4 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >20</td>
+        <td  align="center" >CT172</td>
+        <td  align="left">Toán rời rạc </td>
+        <td  align="center" >4 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >21</td>
+        <td  align="center" >CT180</td>
+        <td  align="left">Cơ sở dữ liệu </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >22</td>
+        <td  align="center" >CT178</td>
+        <td  align="left">Nguyên lý hệ điều hành </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >23</td>
+        <td  align="center" >CT176</td>
+        <td  align="left">Lập trình hướng đối tượng </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >24</td>
+        <td  align="center" >CT174</td>
+        <td  align="left">Phân tích và thiết kế thuật toán </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >25</td>
+        <td  align="center" >XH024</td>
+        <td  align="left">Anh văn căn bản 2 (*) </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >26</td>
+        <td  align="center" >TC004</td>
+        <td  align="left">Taekwondo 2 (*) </td>
+        <td  align="center" >1 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >27</td>
+        <td  align="center" >ML018</td>
+        <td  align="left">Chủ nghĩa xã hội khoa học </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >28</td>
+        <td  align="center" >ML019</td>
+        <td  align="left">Lịch sử Đảng Cộng sản Việt Nam </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >hè</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >29</td>
+        <td  align="center" >XH025</td>
+        <td  align="left">Anh văn căn bản 3 (*) </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >hè</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >30</td>
+        <td  align="center" >XH011E</td>
+        <td  align="left">Cơ sở văn hóa Việt Nam </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >hè</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >31</td>
+        <td  align="center" >TC019</td>
+        <td  align="left">Taekwondo 3 (*) </td>
+        <td  align="center" >1 </td>
+         <td  align="center" >2023-2024&nbsp;</td>
+        <td align="center" >hè</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >32</td>
+        <td  align="center" >CT112</td>
+        <td  align="left">Mạng máy tính </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >33</td>
+        <td  align="center" >CT275</td>
+        <td  align="left">Công nghệ Web </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >34</td>
+        <td  align="center" >CT296</td>
+        <td  align="left">Phân tích và thiết kế hệ thống thông tin </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >35</td>
+        <td  align="center" >CT175</td>
+        <td  align="left">Lý thuyết đồ thị </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >36</td>
+        <td  align="center" >CT179</td>
+        <td  align="left">Quản trị hệ thống </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >37</td>
+        <td  align="center" >CT190</td>
+        <td  align="left">Nhập môn trí tuệ nhân tạo </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >38</td>
+        <td  align="center" >CT271</td>
+        <td  align="left">Niên luận cơ sở - CNTT </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >39</td>
+        <td  align="center" >CT273</td>
+        <td  align="left">Giao diện người - máy </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >40</td>
+        <td  align="center" >ML021</td>
+        <td  align="left">Tư tưởng Hồ Chí Minh </td>
+        <td  align="center" >2 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >41</td>
+        <td  align="center" >CT293</td>
+        <td  align="left">Mạng và truyền thông dữ liệu </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >42</td>
+        <td  align="center" >CT467</td>
+        <td  align="left">Quản trị dữ liệu </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >43</td>
+        <td  align="center" >CT300</td>
+        <td  align="left">Phát triển phần mềm </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >44</td>
+        <td  align="center" >CT182</td>
+        <td  align="left">Ngôn ngữ mô hình hóa </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >45</td>
+        <td  align="center" >CT518</td>
+        <td  align="left">Thực tập doanh nghiệp - CNTT </td>
+        <td  align="center" >5 </td>
+         <td  align="center" >2024-2025&nbsp;</td>
+        <td align="center" >hè</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >46</td>
+        <td  align="center" >CT449</td>
+        <td  align="left">Phát triển ứng dụng Web </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2025-2026&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >47</td>
+        <td  align="center" >CT294</td>
+        <td  align="left">Máy học ứng dụng </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2025-2026&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >48</td>
+        <td  align="center" >CT484</td>
+        <td  align="left">Phát triển ứng dụng di động </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2025-2026&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >49</td>
+        <td  align="center" >CT222</td>
+        <td  align="left">An toàn hệ thống </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2025-2026&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >50</td>
+        <td  align="center" >CT466</td>
+        <td  align="left">Niên luận - CNTT </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2025-2026&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >51</td>
+        <td  align="center" >CT223</td>
+        <td  align="left">Quản lý dự Án phần mềm </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2025-2026&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >52</td>
+        <td  align="center" >CT202</td>
+        <td  align="left">Nguyên lý máy học </td>
+        <td  align="center" >3 </td>
+         <td  align="center" >2025-2026&nbsp;</td>
+        <td align="center" >1</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+            <tr >
+        <td align="center" >53</td>
+        <td  align="center" >CT550</td>
+        <td  align="left">Luận văn tốt nghiệp - CNTT </td>
+        <td  align="center" >15 </td>
+         <td  align="center" >2025-2026&nbsp;</td>
+        <td align="center" >2</td>
+        		        <!--<td  align="center" >&nbsp;</td>-->
+      </tr>
+          </table>	</td>
+  </tr>
+  <tr>
+    <td align="right" colspan="6">Tổng số tín chỉ: 161&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ 
+
+  <tr>
+    <td colspan='6'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center">
+	    <table align='center' width='100%'>
+  <tr>
+    <td width="48%" align="center" colspan="4"><strong>Cần Thơ, Ngày....Tháng....Năm 20..</strong>.</td>
+    <td width="52%" align="center" colspan="2"><strong>Cần Thơ, Ngày....Tháng....Năm 20...</strong></td>
+  </tr>  
+	 <tr>
+	<td align="center" colspan="4">Xác nhận của Cố Vấn Học Tập</td>
+    <td align="center" colspan="2">Xác nhận của sinh viên</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="6">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="6">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="6">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" colspan="6">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">......................</td>
+    <td align="center" colspan="2"><b>Huỳnh Phước Hưng</b></td>
+  </tr>  
+</table></td>
+</tr>
+</table>
+  
+	  
